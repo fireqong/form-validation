@@ -1,0 +1,17 @@
+{
+  "name": "@church1117/form-validation",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["validation", "form validation"],
+  "author": "church",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "should": "^13.2.3"
+  }
+}
